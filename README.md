@@ -45,6 +45,3 @@ Aplicación web de punto de venta desarrollada con React en el frontend y ASP.NE
    dotnet run
    ```
 
-## Notas
-
-El proyecto sigue una base funcional para un POS y ha sido mejorado con validaciones de negocio, manejo de errores más claro y protección básica de contraseñas.
